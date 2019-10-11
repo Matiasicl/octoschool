@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Language-1
+title: Angular
 parent: Language
 nav_order: 1
 ---

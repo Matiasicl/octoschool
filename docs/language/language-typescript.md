@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Language-2
+title: TypeScript
 parent: Language
-nav_order: 2
+nav_order: 3
 ---

@@ -6,5 +6,4 @@ has_children: true
 permalink: /language
 ---
 
-# Languages
-DECRIPTION
+# Lenguajes destacados
