@@ -5,7 +5,7 @@ parent: Tools
 nav_order: 1
 ---
 
-# Comando más usados
+# Comandos más usados
 
 ### **Create a new repository**
 Crear un nuevo repositorio y ejecutar
